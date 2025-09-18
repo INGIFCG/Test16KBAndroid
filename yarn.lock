@@ -6495,6 +6495,11 @@ react-native-animated-dots-carousel@^2.0.1:
   resolved "https://registry.yarnpkg.com/react-native-animated-dots-carousel/-/react-native-animated-dots-carousel-2.0.1.tgz#e1228fc3f3cab9e692f68e3dfc15eb916b784545"
   integrity sha512-uHPqcDmrqkITeucI65U+cCS3kKORCyYrqapNiaWKI0Deu6PdOV7vsoZQv3FyFFyDhLaJ8HIA7LPwK6yHjGW2oA==
 
+react-native-check-version@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-check-version/-/react-native-check-version-1.4.0.tgz#9650e94c33090c22c1d245f14f75fc40c6b7cfdc"
+  integrity sha512-5Ar/LN0/wFSBEOY9TjtIApTrDu1/i4OYN9u0xW/DG2edlCyyfo/BfQkT15muKrKoDpolaoQfGjkDK8/nx9fT0A==
+
 react-native-gesture-handler@~2.28.0:
   version "2.28.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.28.0.tgz#07fb4f5eae72f810aac3019b060d26c1835bfd0c"
