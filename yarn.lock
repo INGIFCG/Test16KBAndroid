@@ -6500,6 +6500,11 @@ react-native-check-version@^1.4.0:
   resolved "https://registry.yarnpkg.com/react-native-check-version/-/react-native-check-version-1.4.0.tgz#9650e94c33090c22c1d245f14f75fc40c6b7cfdc"
   integrity sha512-5Ar/LN0/wFSBEOY9TjtIApTrDu1/i4OYN9u0xW/DG2edlCyyfo/BfQkT15muKrKoDpolaoQfGjkDK8/nx9fT0A==
 
+react-native-collapsible@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/react-native-collapsible/-/react-native-collapsible-1.6.2.tgz#3b67fa402a6ba3c291022f5db8f345083862c3d8"
+  integrity sha512-MCOBVJWqHNjnDaGkvxX997VONmJeebh6wyJxnHEgg0L1PrlcXU1e/bo6eK+CDVFuMrCafw8Qh4DOv/C4V/+Iew==
+
 react-native-gesture-handler@~2.28.0:
   version "2.28.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.28.0.tgz#07fb4f5eae72f810aac3019b060d26c1835bfd0c"
